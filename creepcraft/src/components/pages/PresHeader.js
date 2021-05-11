@@ -4,7 +4,8 @@ import "../../styles/header.scss"
 function PresHeader() {
   return (
     <div className="presHeader">
-      <img id="ccLogo"  src="./assets/ccLogo.png" alt=""/>
+      <h2 className="hi">Welcome to the</h2>
+      <img id="ccLogo"  src="./assets/transparent_creepcade.png" alt=""/>
     </div>
   );
 }
